@@ -40,7 +40,7 @@ The Personal Finance Tracker is a full-stack web application that helps users tr
 <img width="1338" height="598" alt="image" src="https://github.com/user-attachments/assets/36b32458-6d9b-4992-be14-8dcf8779f75f" />
 
 ## 📁 Directory Structure
-
+```
 my-finance-tracker/
 ├── backend/ # Node.js + Express API
 │ ├── controllers/
@@ -55,7 +55,7 @@ my-finance-tracker/
 │ ├── utils/
 │ ├── public/
 │ ├── app/
-
+```
 
 ---
 
